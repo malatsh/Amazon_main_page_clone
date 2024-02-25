@@ -1,1 +1,2 @@
-![Screenshot](path/to/Screenshot/Screenshot (16).png)
+![Screenshot](path/to/screenshot.png)
+
